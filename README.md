@@ -44,7 +44,7 @@ Before you can play the Hangman Game, ensure you have the following prerequisite
 1. Clone the Hangman Game repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/kMurshitha/hangman-game.git
    ```
 
 2. Navigate to the project directory:
